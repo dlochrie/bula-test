@@ -1,6 +1,6 @@
 {
   "name": "bula-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Testing utilities for Bula.",
   "main": "index.js",
   "scripts": {
