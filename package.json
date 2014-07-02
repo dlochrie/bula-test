@@ -1,10 +1,13 @@
 {
   "name": "bula-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Testing utilities for Bula.",
   "main": "index.js",
   "scripts": {
     "test": "make test"
+  },
+  "dependencies": {
+    "q": "1.0.1"
   },
   "repository": {
     "type": "git",
